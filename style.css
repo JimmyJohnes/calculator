@@ -7,8 +7,23 @@ body
 #resultArea
 {
     height: 15vh;
+    min-height: 10vh;
     background-color: rgb(107, 158, 31);
     margin: 10pt;
     border-radius: 15pt;
     color: black;
+    box-shadow: 4px 4px   white;
+}
+#buttonsArea
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 2.5vw;
+    padding: 0 12px;
+}
+#buttonsArea div
+{
+    background-color: #2b065f;
+    height: 7.5vh;
+    text-align: center;
 }
