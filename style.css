@@ -13,6 +13,9 @@ body
     border-radius: 15pt;
     color: black;
     box-shadow: 4px 4px   white;
+    text-align: right;
+    font-size: 2.2rem;
+    padding-right: 15px;
 }
 #buttonsArea
 {
@@ -23,7 +26,8 @@ body
 }
 #buttonsArea div
 {
-    background-color: #2b065f;
-    height: 7.5vh;
+    background-color: #3b0f7a;
+    height: fit-content;
     text-align: center;
+    font-size: 2rem;
 }
