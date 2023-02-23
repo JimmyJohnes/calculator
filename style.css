@@ -1,0 +1,14 @@
+body
+{
+    background-color: #240450;
+    color: white;
+    font-family: monospace;
+}
+#resultArea
+{
+    height: 15vh;
+    background-color: rgb(107, 158, 31);
+    margin: 10pt;
+    border-radius: 15pt;
+    color: black;
+}
